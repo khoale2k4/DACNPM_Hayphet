@@ -12,7 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@atlaskit/avatar": "^21.17.3",
+    "@atlaskit/avatar": "^21.17.6",
     "@atlaskit/icon": "^22.26.0",
     "@ckeditor/ckeditor5-build-classic": "^43.3.1",
     "@ckeditor/ckeditor5-image": "^43.3.1",
